@@ -14,7 +14,7 @@ A list of awesome thing related to the ceramic engine for Haxe
 - [IT WILL FALL](https://github.com/jeremyfa/ld49): A Ludum Dare 49 game made by the creator of ceramic
 
 ## Learning Resources
-- [hello-world](https://github.com/NulllStack/HelloCeramic) : Hellow world with ceramic
+- [hello-world](https://github.com/NulllStack/HelloCeramic) : Hello world with ceramic
 - [magic-hedgehog](https://github.com/qeshi/magic-hedgehog): Trying to figure out how animated sprite sheets work in ceramic
 - [corner-contour-ceramic](https://github.com/nanjizal/cornerContourCeramicTest): basic test of cornerContour with ceramic
 - [ceramic-samples](https://github.com/ceramic-engine/ceramic-samples): Official sample projects for ceramic engine

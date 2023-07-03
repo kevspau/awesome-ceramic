@@ -6,6 +6,8 @@ A list of awesome thing related to the ceramic engine for Haxe
   - [Games](#games)
   - [Learning Resources](#learning-resources)
   - [Tools](#tools)
+  - [Other](#other)
+  
 ## Apps
 - [CeramicColors](https://github.com/Gioele-Bencivenga/CeramicColors): Colors app made in ceramic and haxe
 
